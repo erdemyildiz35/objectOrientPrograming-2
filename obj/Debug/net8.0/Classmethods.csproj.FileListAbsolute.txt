@@ -1,0 +1,14 @@
+C:\Users\erdem\source\repos\Classmethods\bin\Debug\net8.0\Classmethods.exe
+C:\Users\erdem\source\repos\Classmethods\bin\Debug\net8.0\Classmethods.deps.json
+C:\Users\erdem\source\repos\Classmethods\bin\Debug\net8.0\Classmethods.runtimeconfig.json
+C:\Users\erdem\source\repos\Classmethods\bin\Debug\net8.0\Classmethods.dll
+C:\Users\erdem\source\repos\Classmethods\bin\Debug\net8.0\Classmethods.pdb
+C:\Users\erdem\source\repos\Classmethods\obj\Debug\net8.0\Classmethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erdem\source\repos\Classmethods\obj\Debug\net8.0\Classmethods.AssemblyInfoInputs.cache
+C:\Users\erdem\source\repos\Classmethods\obj\Debug\net8.0\Classmethods.AssemblyInfo.cs
+C:\Users\erdem\source\repos\Classmethods\obj\Debug\net8.0\Classmethods.csproj.CoreCompileInputs.cache
+C:\Users\erdem\source\repos\Classmethods\obj\Debug\net8.0\Classmethods.dll
+C:\Users\erdem\source\repos\Classmethods\obj\Debug\net8.0\refint\Classmethods.dll
+C:\Users\erdem\source\repos\Classmethods\obj\Debug\net8.0\Classmethods.pdb
+C:\Users\erdem\source\repos\Classmethods\obj\Debug\net8.0\Classmethods.genruntimeconfig.cache
+C:\Users\erdem\source\repos\Classmethods\obj\Debug\net8.0\ref\Classmethods.dll
